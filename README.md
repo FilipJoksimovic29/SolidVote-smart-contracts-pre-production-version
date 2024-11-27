@@ -2,7 +2,7 @@
  Trenutno je na Base sepolia testnet-u, i u procesu je testiranja , sve sugestije su dobrodosle na office@solidvotedapp.com
 # Ovaj kod nije kod za produkciju i kao takvog odricem se bilo kakve odogovornisti.
 
-Kod je napisan u solidity jeziku i kao takav kompaktibilan je sa mrezama koje podrzavaju EVM poput Base, Avalanche, Arbitrum, Polygon..
+Kod je napisan u solidity jeziku i kompaktibilan je sa mrezama koje podrzavaju EVM poput Base, Avalanche, Arbitrum, Polygon..
 Trenutno se u fajlovima nalaze skripte za kacenje ugovora na Ethereum Sepolia testnet i Base sepolia testnet, a hardhat je trenutno konfigurisan za base testnet i mainnet
 
 U .env je potrebno dodati private key u WALLET_KEY= 
